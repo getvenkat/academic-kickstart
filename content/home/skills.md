@@ -15,21 +15,41 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Statistics and Data Science"
+  #description = "100%"  
+  
+[[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Machine Learning and Deep Learning"
+
+[[feature]]
+  icon = "x-ray"
+  icon_pack = "fas"
+  name = "Medical Imaging"
+
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  #description = "100%"
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  #description = "90%"
   
+#[[feature]]
+  #icon = "zotero"
+  #icon_pack = "ai"
+  #name = "Zotero"
+
 [[feature]]
-  icon = "chart-line"
+  icon = "database"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "SQL"
+
 
 +++
