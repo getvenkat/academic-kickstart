@@ -45,7 +45,7 @@ social:
   #link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.ca/citations?hl=en&user=UzRN51UAAAAJ&sortby=pubdate
+  link: https://scholar.google.ca/citations?user=UzRN51UAAAAJ&hl=en
 #- icon: github
   #icon_pack: fab
   #link: https://github.com/getvenkat
@@ -68,4 +68,4 @@ user_groups:
 Venkat Swaminathan is a research data professional at Sunnybrook Health Sciences Centre - University of Toronto. His professional interests include magnetic resonance imaging (MRI) physics and the use of machine learning and deep learning techniques in medical images. He is also keenly interested in use and management of data science techniques in the business world.
 
 For my full list of publications see my Google Scholar page: 
-https://scholar.google.ca/citations?hl=en&user=UzRN51UAAAAJ&sortby=pubdate
+https://scholar.google.ca/citations?user=UzRN51UAAAAJ&hl=en
